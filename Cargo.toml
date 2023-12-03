@@ -3,4 +3,5 @@ members = [
   "day01-2022",
   "day01",
   "day02",
+  "day03",
 ]
